@@ -13,7 +13,7 @@ const text =
 [
     "I am Web Designer",
     "I am Web Developer",
-    "I am ASP.NET Developer"
+    "I am Data Analyst"
 ]
 
 let i = 0
