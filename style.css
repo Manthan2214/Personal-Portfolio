@@ -586,9 +586,9 @@ nav ul li a:hover
 .projects-grid
 {
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
     gap: 50px;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .project-card
